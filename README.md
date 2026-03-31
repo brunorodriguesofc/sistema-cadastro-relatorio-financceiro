@@ -41,7 +41,3 @@ Usuário Joao foi cadastrado com sucesso
 Servidor de email: gmail.com
 Lucro: R$1,400.00
 Margem: 40.00%
-
----
-
-## 🔹 Tecnologias utilizadas
